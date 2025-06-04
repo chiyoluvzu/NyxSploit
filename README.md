@@ -59,7 +59,7 @@ NyxSploit is a stealthy command-and-control (C2) and data-exfiltration toolkit t
 ## Demo Screenshot
 
 <p align="center">
-  <img src="[https://i.imgur.com/7DyjwTg.png](https://files.catbox.moe/bjo8av.png)" alt="NyxSploit Menu Demo" width="600"/>
+  <img src="https://files.catbox.moe/bjo8av.png" alt="NyxSploit Menu Demo" width="600"/>
 </p>
 
 ---
