@@ -6,11 +6,11 @@
 
 > “Time never waits... It delivers all the same end.”
 
-NyxSploit is a stealthy command-and-control (C2) and data-exfiltration toolkit that abuses NTP extension fields for covert communication. It bundles multiple modules—**Khaos**, **Thanatos**, **Aletheia**, **Lethe**, **Eidolon**, and **Erebus**—into a single Python script with a stylized menu interface. On start, it even plays a background audio track from Catbox.moe to set the mood.
+NyxSploit is a stealthy command-and-control (C2) and data-exfiltration toolkit that abuses NTP extension fields for covert communication. It bundles multiple modules—**Khaos**, **Thanatos**, **Aletheia**, **Lethe**, **Eidolon**, and **Erebus**—into a single Python script with a stylized menu interface.
 
 ---
 
-[![GitHub release](https://img.shields.io/github/v/release/yourusername/nyxsploit)](https://github.com/yourusername/nyxsploit/releases)
+[![GitHub release](https://img.shields.io/github/v/release/chiyoluvzu/nyxsploit)](https://github.com/chiyoluvzu/nyxsploit/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.6%2B-brightgreen.svg)](https://www.python.org/downloads/)
 
